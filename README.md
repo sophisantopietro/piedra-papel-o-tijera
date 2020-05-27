@@ -1,1 +1,1 @@
-# piedra-papel-o-tijera
+# Piedra, papel o tijera Pokemon
